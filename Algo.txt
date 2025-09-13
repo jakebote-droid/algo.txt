@@ -1,2 +1,4 @@
 1. Decide which business to order from
-2. Decide which type of pizza to order 
+2. select sauce 
+3. select cheese 
+4. add toppings 
